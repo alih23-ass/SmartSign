@@ -1,9 +1,5 @@
 
 # subframe
 .subframe/access-token
-node_modules
-node_modules
-node_modules
-node_modules
-node_modules
-node_modules
+node_modules/
+build/
