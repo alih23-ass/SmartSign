@@ -1,13 +1,13 @@
 {
   "files": {
     "main.css": "/SmartSign/static/css/main.0efd95f4.css",
-    "main.js": "/SmartSign/static/js/main.9d750c34.js",
+    "main.js": "/SmartSign/static/js/main.f0b77649.js",
     "index.html": "/SmartSign/index.html",
     "main.0efd95f4.css.map": "/SmartSign/static/css/main.0efd95f4.css.map",
-    "main.9d750c34.js.map": "/SmartSign/static/js/main.9d750c34.js.map"
+    "main.f0b77649.js.map": "/SmartSign/static/js/main.f0b77649.js.map"
   },
   "entrypoints": [
     "static/css/main.0efd95f4.css",
-    "static/js/main.9d750c34.js"
+    "static/js/main.f0b77649.js"
   ]
 }
