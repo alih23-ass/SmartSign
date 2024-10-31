@@ -1,0 +1,10 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+.mirrored-video {
+    transform: scaleX(-1); /* Mirrors the video horizontally */
+  }
+  
+
+
+
